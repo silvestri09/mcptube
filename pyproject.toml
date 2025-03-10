@@ -1,0 +1,5 @@
+[project]
+name = "mcptube"
+version = "0.1.0"
+description = "Transform YouTube videos into a compounding knowledge base with transcripts, vision analysis, and agentic search. Works as an MCP server for Claude, Copilot & more."
+requires-python = ">=3.10"
